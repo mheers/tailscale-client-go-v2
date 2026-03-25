@@ -4,7 +4,7 @@
 // Package tailscale contains a basic implementation of a client for the Tailscale HTTP API.
 //
 // Documentation is at https://tailscale.com/api
-package tailscale // import "tailscale.com/client/tailscale/v2"
+package tailscale // import "github.com/mheers/tailscale-client-go-v2"
 
 import (
 	"bytes"

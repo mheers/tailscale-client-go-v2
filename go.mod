@@ -1,4 +1,4 @@
-module tailscale.com/client/tailscale/v2
+module github.com/mheers/tailscale-client-go-v2
 
 go 1.24.0
 
